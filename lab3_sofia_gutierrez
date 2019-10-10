@@ -24,7 +24,7 @@ The following class is for a sorted list
 ''' 
 class SortedList(object):   
     # Constructor
-    def __init__(self,head = None,tail = None):    
+    def __init__(self,head = None,tail = None):
         self.head = head
         self.tail = tail
 
